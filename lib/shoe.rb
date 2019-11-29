@@ -47,7 +47,10 @@ class Shoe
   
 end 
 
-
+class Shoe 
+  attr_accessor :
+  
+end 
 
 
 
